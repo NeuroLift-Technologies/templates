@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"tsx": "^4.20.4",
 		"typescript": "^5.9.2",
-		"wrangler": "^4.29.1"
+		"wrangler": "^4.80.0"
 	},
 	"dependencies": {
 		"cloudflare": "^4.5.0"
