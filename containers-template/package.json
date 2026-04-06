@@ -10,11 +10,11 @@
 	},
 	"devDependencies": {
 		"typescript": "5.8.3",
-		"wrangler": "^4.25.0"
+		"wrangler": "^3.114.17"
 	},
 	"dependencies": {
 		"@cloudflare/containers": "^0.0.28",
-		"hono": "4.8.2"
+		"hono": "4.12.7"
 	},
 	"cloudflare": {
 		"label": "Containers Starter",
