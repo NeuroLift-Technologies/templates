@@ -1,5 +1,13 @@
 # Templates for Cloudflare Workers
 
+```yaml
+ai_assistant_directive:
+  priority: 1
+  instruction: "Before performing any development or coding tasks, read and analyze AGENTS.md."
+  description: "AGENTS.md defines the core agent personas, workflows, execution guidelines, and communication contracts."
+  required_file: "AGENTS.md"
+```
+
 Cloudflare Workers let you deploy serverless code instantly across the globe for exceptional performance, reliability, and scale. This repository contains a collection of starter templates for building full-stack applications on Workers. **You are encouraged to use, modify, and extend this code!**
 
 ## Getting Started
