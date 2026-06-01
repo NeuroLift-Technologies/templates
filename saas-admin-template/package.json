@@ -27,7 +27,7 @@
     "@tanstack/react-table": "8.21.3",
     "@types/react": "19.0.10",
     "@types/react-dom": "19.0.4",
-    "astro": "5.18.1",
+    "astro": "6.1.10",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "lucide-react": "0.525.0",
@@ -40,7 +40,7 @@
     "zod": "3.25.67"
   },
   "devDependencies": {
-    "wrangler": "4.80.x"
+    "wrangler": "4.96.x"
   },
   "scripts": {
     "astro": "astro",
