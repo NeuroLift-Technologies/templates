@@ -10,7 +10,7 @@
       "package_json_hash": "d140a0305a2b50dad8a5eefae1ffa6584d681878"
     },
     "durable-chat-template": {
-      "package_json_hash": "a88b66c5d7a6d282c8d165c0674f5e4bcacf98b0"
+      "package_json_hash": "531901e6a5e1bda3a15a60534ecd40a2babb62ae"
     },
     "llm-chat-app-template": {
       "package_json_hash": "abfdfbeb96b71cbd25209c803db3cfea44fcb373"
@@ -37,7 +37,7 @@
       "package_json_hash": "1c20291bb474c12c4e50f9f24d66f1c9b0139ea2"
     },
     "remix-starter-template": {
-      "package_json_hash": "9a9b096ddd035c7833036133d39336e17dedb4e7"
+      "package_json_hash": "3e1478d8b4dc8d5ed3a57375b0c2dd0c3e0df946"
     },
     "saas-admin-template": {
       "package_json_hash": "674e225c7d582b6a7dc18c0fa22f4861891276d1"
@@ -46,7 +46,7 @@
       "package_json_hash": "8fb9be4dfec79971923c4cf07d8a934e25a24efa"
     },
     "to-do-list-kv-template": {
-      "package_json_hash": "904ae4cc52b268ef593b0527f9e49e22593c6270"
+      "package_json_hash": "57ddbd437bb74fe175154c122db825c974d9d7cf"
     },
     "vite-react-template": {
       "package_json_hash": "05c92d94abccfea2b751cc784d9f4fb2baed7b58"
@@ -92,6 +92,9 @@
     },
     "workers-builds-notifications-template": {
       "package_json_hash": "6cfe18a9555106217af4337e203dac703328a66d"
+    },
+    "ai-brand-visibility-template": {
+      "package_json_hash": "a5ba337f3cdfb3852e6316feb691ba4f9205dced"
     }
   }
 }
