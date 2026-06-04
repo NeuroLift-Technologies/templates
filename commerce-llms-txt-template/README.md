@@ -50,7 +50,7 @@ The template ships with a sample catalog so you can see it working immediately a
    npx wrangler kv namespace create ENRICHMENT_CACHE
    ```
 
-   Copy the namespace ID from the output and paste it into `wrangler.json` in place of `<REPLACE_WITH_YOUR_KV_NAMESPACE_ID>`.
+   Copy the namespace ID from the output and paste it into `wrangler.json` in place of the example namespace ID.
 
    > If you deploy via the "Deploy to Cloudflare" button at the top of this README, the KV namespace is provisioned for you automatically — you can skip this step.
 

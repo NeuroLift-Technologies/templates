@@ -19,7 +19,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "ENRICHMENT_CACHE",
-			"id": "<REPLACE_WITH_YOUR_KV_NAMESPACE_ID>"
+			"id": "ebd70b4ed8df4086956603c87c22876f"
 		}
 	],
 	"vars": {

@@ -48,7 +48,7 @@ A live preview is generated for every pull request via the Deploy to Cloudflare 
    npm install
    ```
 
-2. Create a KV namespace and add its ID to `wrangler.jsonc` (replace `<REPLACE_WITH_YOUR_KV_NAMESPACE_ID>`):
+2. Create a KV namespace and add its ID to `wrangler.jsonc` (replace the example namespace ID):
 
    ```bash
    npx wrangler kv namespace create VISIBILITY_CACHE
