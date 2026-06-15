@@ -1,6 +1,5 @@
 {
 	"name": "postgres-hyperdrive-template",
-	"private": true,
 	"cloudflare": {
 		"label": "Worker + Postgres Database",
 		"products": [
@@ -18,16 +17,19 @@
 		"preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/af6f091c-ef52-42fe-91f0-4549f47a4400/public"
 	},
 	"dependencies": {
-		"pg": "^8.16.3"
+		"pg": "8.16.3"
 	},
 	"devDependencies": {
-		"@cloudflare/vitest-pool-workers": "0.8.44",
-		"@types/node": "24.0.4",
-		"@types/pg": "^8.11.10",
-		"typescript": "5.8.3",
+		"@cloudflare/vitest-pool-workers": "0.11.1",
+		"@types/node": "24.10.1",
+		"@types/pg": "8.15.6",
+		"@vitest/runner": "3.2.4",
+		"@vitest/snapshot": "3.2.4",
+		"typescript": "5.9.3",
 		"vitest": "3.2.4",
-		"wrangler": "4.21.x"
+		"wrangler": "4.88.0"
 	},
+	"private": true,
 	"scripts": {
 		"cf-typegen": "wrangler types",
 		"deploy": "wrangler deploy",
